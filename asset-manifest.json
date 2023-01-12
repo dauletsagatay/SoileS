@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SoileS/static/css/main.d1537f81.css",
+    "main.js": "/SoileS/static/js/main.5618d709.js",
+    "index.html": "/SoileS/index.html",
+    "main.d1537f81.css.map": "/SoileS/static/css/main.d1537f81.css.map",
+    "main.5618d709.js.map": "/SoileS/static/js/main.5618d709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1537f81.css",
+    "static/js/main.5618d709.js"
+  ]
+}
