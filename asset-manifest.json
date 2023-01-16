@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SoileS/static/css/main.d1537f81.css",
-    "main.js": "/SoileS/static/js/main.5618d709.js",
+    "main.css": "/SoileS/static/css/main.7ef1ace0.css",
+    "main.js": "/SoileS/static/js/main.7148998c.js",
     "index.html": "/SoileS/index.html",
-    "main.d1537f81.css.map": "/SoileS/static/css/main.d1537f81.css.map",
-    "main.5618d709.js.map": "/SoileS/static/js/main.5618d709.js.map"
+    "main.7ef1ace0.css.map": "/SoileS/static/css/main.7ef1ace0.css.map",
+    "main.7148998c.js.map": "/SoileS/static/js/main.7148998c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1537f81.css",
-    "static/js/main.5618d709.js"
+    "static/css/main.7ef1ace0.css",
+    "static/js/main.7148998c.js"
   ]
 }
