@@ -90,7 +90,7 @@ const Searchbar = () => {
         />
       </div>
       {err && <span>User not found</span>}
-      {user && (
+      {user && user !== currentUser && (
         <div className="userChat" onClick={handleSelect}>
           <img src={user.photoURL} alt="" />
           <div className="userChatInfo">
